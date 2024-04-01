@@ -16,11 +16,9 @@ So if size is 8 and total is 4, each function will have the respective output of
 Divide Size: 4  |
 Divide Size: 2  |
 Divide Size: 1  |
-                |
 Divide Size: 4  |
 Divide Size: 2  |
 Divide Size: 1  |
-                |
 Divide Size: 4  |
 Divide Size: 2  |
 Divide Size: 1  |
@@ -28,11 +26,9 @@ Divide Size: 1  |
 Shift Size: 4   |
 Shift Size: 2   |
 Shift Size: 1   |
-                |
 Shift Size: 4   |
 Shift Size: 2   |
 Shift Size: 1   |
-                |
 Shift Size: 4   |
 Shift Size: 2   |
 Shift Size: 1   |
